@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Overview of the project
+
+This project is a movie and show streaming plateform using next.js, tailwindcss, typescript, prisma, and mongodb
+
 ## Getting Started
 
 First, run the development server:
