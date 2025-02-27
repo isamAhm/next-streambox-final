@@ -1,5 +1,6 @@
 'use client';
 
+// auth page
 import axios from "axios";
 import Input from "@/app/components/input";
 import { useCallback, useState } from "react";
